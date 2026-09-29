@@ -1,0 +1,13 @@
+# Результаты сборки Maven
+target/
+
+# Среда разработки
+.vscode/
+
+# Игнорируем дистрибутив GraalVM и его файлы
+graalvm-*
+3rd_party_license*
+GRAALVM-README*
+LICENSE*
+release
+gu
